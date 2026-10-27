@@ -65,7 +65,7 @@ A multi-node database application for managing appointment records, with retriev
 **Node.js · Express · Sequelize · MySQL · EJS**
 
 ### [Abstract Machine Interpreter](https://github.com/taps210/CSC615M-MP)
-A Python interpreter for user-defined abstract machines, supporting state transitions, stacks, queues, one- and two-dimensional tapes, and execution logs through a Tkinter interface. *(Repository currently private.)*
+A Python interpreter for user-defined abstract machines, supporting state transitions, stacks, queues, one- and two-dimensional tapes, and execution logs through a Tkinter interface.
 
 **Python · Tkinter · Automata · Data Structures**
 
