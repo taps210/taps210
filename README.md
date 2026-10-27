@@ -1,9 +1,9 @@
 
 # Hi, I'm Noah Bernardo 👋
 
-I'm a BS–MS Computer Science student at **De La Salle University Manila**, with interests in software engineering, artificial intelligence, data science, and computational research.
+I'm a BS–MS Computer Science student at **De La Salle University Manila**, with interests in software engineering, machine learning, optimization algorithms, and computational research.
 
-My experience spans full-stack development, optimization algorithms, geospatial computing, distributed systems, and systems programming. I enjoy developing software that applies computational techniques to real-world problems.
+My experience spans full-stack development, geospatial computing, distributed systems, systems programming, and applied machine learning. I enjoy developing software that applies computational techniques to real-world problems.
 
 ## 🔬 Research
 
@@ -35,12 +35,12 @@ A Progressive Web App supporting a research study on emotional feedback in push 
 **JavaScript · Firebase · Cloud Firestore · Cloud Functions**
 
 ### [JPD Garage Management System](https://github.com/briangabini/CSSWENG-IMS)
-A collaborative inventory and transaction management application. I contributed as a backend developer, working on shopping-cart functionality.
+A web-based inventory and transaction management system for an automotive garage, featuring inventory tracking, shopping-cart checkout, and sales reporting.
 
 **Node.js · Express · MongoDB · Mongoose**
 
 ### [Android Weather and Social Application](https://github.com/knshnf/MOBDEVE-Grp45-MCO)
-An Android application combining weather information and location-based social features. My contributions include weather displays and post creation.
+An Android application combining hourly and daily weather information with location-based social features, including post creation and city- and country-specific feeds.
 
 **Kotlin · Android · Firebase**
 
@@ -60,7 +60,7 @@ A C++ operating-system simulation featuring process management, first-come-first
 **C++ · CPU Scheduling · Memory Management**
 
 ### [Distributed Appointment Transaction Management](https://github.com/kuriguchi/transaction-management-database)
-A collaborative database application for managing appointments across database nodes. I contributed appointment update and deletion operations and Express routes using Sequelize transactions.
+A multi-node database application for managing appointment records, with retrieval, update, and deletion operations supported by Express routes and Sequelize-managed SQL transactions.
 
 **Node.js · Express · Sequelize · MySQL · EJS**
 
@@ -75,12 +75,12 @@ A multi-client socket-based file-exchange prototype supporting client registrati
 **Python · Socket Programming · Multithreading**
 
 ### [Hive Social Web Application](https://github.com/DLSU-CCAPDEV/2223T3-S18-G06)
-A collaborative social web application with user accounts, profiles, posts, comments, search, and voting. I contributed server-side configuration and MongoDB-backed session handling.
+A social web application featuring user registration and login, profiles, posts, nested comments, search, and voting, with Express and MongoDB-backed session management.
 
 **JavaScript · Node.js · Express · MongoDB · Handlebars**
 
 ### [Deep Past: Akkadian-to-English Machine Translation](https://github.com/bcuales/CSC753M-CualesBernardo/tree/main/TRANSLATION)
-A collaborative sequence-to-sequence machine-translation experiment for Akkadian-to-English text, using normalization, tokenization, model training, and evaluation in a Jupyter notebook.
+A sequence-to-sequence machine-translation experiment for Akkadian-to-English text, featuring text normalization, tokenization, Transformer-model training, and evaluation in a Jupyter notebook.
 
 **Python · PyTorch · Hugging Face Transformers · NLP**
 
