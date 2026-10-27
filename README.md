@@ -54,6 +54,36 @@ Java-based lexical analysis and syntax parsing tools with error reporting and vi
 
 **Java · Gradle · Streamlit**
 
+### [Operating-System Scheduling and Memory Simulation](https://github.com/taps210/CSOPESY_MCO)
+A C++ operating-system simulation featuring process management, first-come-first-served and round-robin CPU scheduling, and paging and flat-memory allocation.
+
+**C++ · CPU Scheduling · Memory Management**
+
+### [Distributed Appointment Transaction Management](https://github.com/kuriguchi/transaction-management-database)
+A collaborative database application for managing appointments across database nodes. I contributed appointment update and deletion operations and Express routes using Sequelize transactions.
+
+**Node.js · Express · Sequelize · MySQL · EJS**
+
+### [Abstract Machine Interpreter](https://github.com/taps210/CSC615M-MP)
+A Python interpreter for user-defined abstract machines, supporting state transitions, stacks, queues, one- and two-dimensional tapes, and execution logs through a Tkinter interface. *(Repository currently private.)*
+
+**Python · Tkinter · Automata · Data Structures**
+
+### [Socket-Based File Exchange Prototype](https://github.com/taps210/CSNETWK_MP)
+A multi-client socket-based file-exchange prototype supporting client registration, file uploads and downloads, directory listings, and threaded connection handling.
+
+**Python · Socket Programming · Multithreading**
+
+### [Hive Social Web Application](https://github.com/DLSU-CCAPDEV/2223T3-S18-G06)
+A collaborative social web application with user accounts, profiles, posts, comments, search, and voting. I contributed server-side configuration and MongoDB-backed session handling.
+
+**JavaScript · Node.js · Express · MongoDB · Handlebars**
+
+### [Deep Past: Akkadian-to-English Machine Translation](https://github.com/bcuales/CSC753M-CualesBernardo/tree/main/TRANSLATION)
+A collaborative sequence-to-sequence machine-translation experiment for Akkadian-to-English text, using normalization, tokenization, model training, and evaluation in a Jupyter notebook.
+
+**Python · PyTorch · Hugging Face Transformers · NLP**
+
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java, JavaScript, TypeScript, Kotlin, C++, C, SQL
