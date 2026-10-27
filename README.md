@@ -24,6 +24,11 @@ I'm a co-author of **The Effect of Emotional Feedback in Push Notifications on U
 
 ## 💻 Featured Projects
 
+### [Jeepney Route Network Optimization](https://github.com/dlsudatasci/optimize-jeepney-routes-genetic-algorithm)
+A Python-based project for generating and optimizing jeepney route networks using genetic algorithms, OpenStreetMap road networks, amenity and population data, and graph-based evaluation. Includes geospatial preprocessing, route generation, and interactive network visualizations.
+
+**Python · NetworkX · OSMnx · GeoPandas · Folium**
+
 ### [Push-Notification Research PWA](https://github.com/taps210/CSC403M_EMA_PWA)
 A Progressive Web App supporting a research study on emotional feedback in push notifications, with participant authentication, survey collection, and notification scheduling.
 
