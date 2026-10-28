@@ -84,6 +84,11 @@ A sequence-to-sequence machine-translation experiment for Akkadian-to-English te
 
 **Python · PyTorch · Hugging Face Transformers · NLP**
 
+### [Short-Form Video Engagement Prediction](https://github.com/taps210/CSC753M)
+A machine-learning project that classifies short-form videos as high- or normal-engagement using YouTube Shorts and TikTok trend data. Compares Logistic Regression and Multi-Layer Perceptron (MLP) models through data cleaning, feature engineering, preprocessing pipelines, and evaluation using F1-score, precision, recall, and ROC-AUC.
+
+**Python · pandas · NumPy · scikit-learn · MLP · Jupyter Notebook**
+
 ## 🛠️ Technical Skills
 
 **Languages:** Python, Java, JavaScript, TypeScript, Kotlin, C++, C, SQL
